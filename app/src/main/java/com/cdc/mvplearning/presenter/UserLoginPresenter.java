@@ -9,9 +9,6 @@ import com.cdc.mvplearning.biz.UserBiz;
 import com.cdc.mvplearning.view.IUserLoginView;
 
 
-/**
- * Created by zhy on 15/6/19.
- */
 public class UserLoginPresenter
 {
     private IUserBiz userBiz;

@@ -3,9 +3,6 @@ package com.cdc.mvplearning.biz;
 
 import com.cdc.mvplearning.bean.User;
 
-/**
- * Created by zhy on 15/6/19.
- */
 public class UserBiz implements IUserBiz {
 
     @Override
